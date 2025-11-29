@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-gunicorn
-numpy
-pandas
-streamlit
-gradio
-torch
-transformers
